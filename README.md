@@ -1,2 +1,2 @@
 # e2_s1
-esta es mi primera pígina en git
+esta es mi primera página en git
